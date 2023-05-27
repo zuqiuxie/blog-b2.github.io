@@ -124,7 +124,7 @@ extra_css:
 nav:
   #- Home: index.md
   - 硬件 & 半导体:
-      - 硬件设计:
+      - 硬件设计 fontawesome/regular/bookmark:
           - 基础知识:
               - 基本元器件-电阻1.md
               - 基本元器件-电容.md
