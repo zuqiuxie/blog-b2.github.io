@@ -5,8 +5,8 @@
 
 /* 文字选取颜色 */
 ::selection {
-  background: rgb(173, 113, 246);
-  color: rgb(66, 201, 82);
+  background: rgb(215, 235, 66);
+  color: rgb(77, 66, 201);
 }
 
 /* Smooth Scroll 顺滑跳转到某位置 */
