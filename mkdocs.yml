@@ -156,7 +156,7 @@ nav:
               - 硬件设计/嵌入式硬件/STM32F4硬件开发.md
               - 硬件设计/嵌入式硬件/SwiftCtrl-蓝牙手柄.md
               - 硬件设计/嵌入式硬件/自制CMSIS-DAP.md
-              # - X86平台的硬件测试.md
+              - 硬件设计/嵌入式硬件/X86平台的硬件测试.md
           - 电机驱动:
               - 硬件设计/电机驱动/直流有刷电机驱动的设计.md
               - 硬件设计/电机驱动/TinyDVR-小巧身材，满载动力.md
@@ -201,8 +201,8 @@ nav:
               - 硬件设计/信号与电源完整性/ESD基础知识.md
               - 硬件设计/信号与电源完整性/EMC设计指南.md
               - 硬件设计/信号与电源完整性/信号地与机壳地间的EMC设计.md
-          #- Signal and Power Integrity:
-          #   - Basics_of_Signal_and_Power_Integrity.md
+              - 硬件设计/信号与电源完整性/Signal and Power Integrity:
+              - 硬件设计/信号与电源完整性/Basics_of_Signal_and_Power_Integrity.md
           - 射频设计:
               - 硬件设计/射频设计/射频-基础知识.md
               - 硬件设计/射频设计/射频-组件与系统-导线.md
@@ -321,6 +321,98 @@ nav:
               - 软件开发/杂七杂八/前端开发-环境搭建.md
               - 软件开发/杂七杂八/BookJourney-二手书商城小程序.md
               - 软件开发/杂七杂八/Git学习笔记.md
+          - 机器人队行政:
+              - 软件开发/机器人队行政/四校交流-策划案.md
+              - 软件开发/机器人队行政/四校交流-策划案-正式.md
+              - 软件开发/机器人队行政/团队知识库的搭建.md
+              - 软件开发/机器人队行政/团队影像资源管理.md
+              - 软件开发/机器人队行政/大扫除-经验模板.md
+              - 软件开发/机器人队行政/校门口车辆放行-流程.md
+              - 软件开发/机器人队行政/参观实验室-经验模板.md
+              - 软件开发/机器人队行政/动员大会-经验总结.md
+              - 软件开发/机器人队行政/换届大会-经验总结.md
+              - 软件开发/机器人队行政/破冰活动-经验总结.md
+              - 软件开发/机器人队行政/出展活动-经验总结.md
+          - PM:
+              - 软件开发/PM/产品经理的日常.md
+              - 软件开发/PM/中台的概念.md
+              - 软件开发/PM/画图基础.md
+              - 软件开发/PM/智能硬件产品经理的技术要求.md
+              - 软件开发/PM/如何撰写一份BRD.md
+              - 软件开发/PM/软件开发中的注意事项.md
+              - 软件开发/PM/专业与分工.md
+              - 软件开发/PM/关于复盘.md
+          - archive:
+              - 软件开发/archive/Python学习笔记.md
+              - 软件开发/archive/STM32麦轮小车.md
+              - 软件开发/archive/RM校内赛-前期策划.md
+              - 软件开发/archive/报告书都要写些什么？.md
+              - 软件开发/archive/无人驾驶比赛.md
+              - 软件开发/archive/硬件模块.md
+              - 软件开发/archive/命令行基本操作-
+              - 软件开发/archive/科技X的访谈.md
+              - 软件开发/archive/极简面包-烘培.md
+              - 软件开发/archive/电路设计中常用的接口及关键点.md
+              - 软件开发/archive/Bash基础.md
+              - 软件开发/archive/从零搭建视觉开发环境（Docker-Linux）.md
+              - 软件开发/archive/Excel批量激活链接并转为图片.md
+              - 软件开发/archive/智能硬件产品开发流程.md
+              - 软件开发/archive/华广爬楼指北.md
+              - 软件开发/archive/小车游华广-比赛.md
+              - 软件开发/archive/麦昆小车-测评.md
+              - 软件开发/archive/STM32模块设计-LED.md
+              - 软件开发/archive/团队公开知识库的搭建.md
+              - 软件开发/archive/Docker方法部署code-server.md
+              - 软件开发/archive/LoRa物联网通信技术
+              - 软件开发/archive/nps
+          - unlist:
+              - 软件开发/unlist/电源设计-LDO跳变抑制能力对比测试记录.md
+              - 软件开发/unlist/CentOS安装Docker.md
+              - 软件开发/unlist/乐谱-Imagine.md
+              - 软件开发/unlist/T-Clock桌上小钟（旧）.md
+              - 软件开发/unlist/构建知识管理系统.md
+              - 软件开发/unlist/回归博客.md
+              - 软件开发/unlist/团队知识库搭建记录-DokuWiki.md
+              - 软件开发/unlist/个人知识库极简搭建指南-VuePress.md
+              - 软件开发/unlist/博客转至GitBook.md
+              - 软件开发/unlist/浅谈Bitcron博客平台.md
+              - 软件开发/unlist/基于docsify搭建个人Wiki.md
+              - 软件开发/unlist/PCB名片的设计.md
+              - 软件开发/unlist/如何用LaTeX写论文.md
+          - preview:
+              - 软件开发/preview/如何用Markdown写学术论文.md
+              - 软件开发/preview/AD基本操作-PCB绘制.md
+              - 软件开发/preview/AD基本操作-库文件绘制.md
+          - preview2:
+              - 软件开发/preview/1.md
+              - 软件开发/preview/CubeIDE配置指南.md
+              - 软件开发/preview/DDR3硬件设计-基本原理.md
+              - 软件开发/preview/DDR设计基础知识.md
+              - 软件开发/preview/ESXi初始化指南.md
+              - 软件开发/preview/Flip-基于全志V3s的Linux最小系统板.md
+              - 软件开发/preview/Homelab.md
+              - 软件开发/preview/homelab文章模板.md
+              - 软件开发/preview/lab.md
+              - 软件开发/preview/M3UandIPTV.md
+              - 软件开发/preview/PCB常见封装参考.md
+              - 软件开发/preview/podcast.md
+              - 软件开发/preview/self-host.md
+              - 软件开发/preview/Tools.md
+              - 软件开发/preview/vb.md
+              - 软件开发/preview/产品PRD模板.md
+              - 软件开发/preview/电路复用收集.md
+              - 软件开发/preview/电平转换电路收集.md
+              - 软件开发/preview/傅里叶变换.md
+              - 软件开发/preview/哥德堡变奏曲与古尔德.md
+              - 软件开发/preview/计网学习笔记.md
+              - 软件开发/preview/论文工具收集.md
+              - 软件开发/preview/平静下的波澜.md
+              - 软件开发/preview/如何掌握自己的数据权.md
+              - 软件开发/preview/信号完整性设计.md
+              - 软件开发/preview/直流有刷电机的选型.md
+              - 软件开发/preview/职业技能路线.md
+              - 软件开发/preview/智能家居套件.md
+              - 软件开发/preview/阻抗匹配的原理.md
   - 生活 & 折腾:
       - 生活琐记:
           - LIFEHACK:
@@ -385,6 +477,7 @@ nav:
               - 折腾不止/群晖 NAS（218+）/使用acme.sh自动申请域名证书（群晖Docker）.md #  CSDN
               - 折腾不止/群晖 NAS（218+）/使用Calibre搭建在线书库（群晖Docker）.md #  CSDN
               - 折腾不止/群晖 NAS（218+）/使用Watchtower自动更新容器（群晖Docker）.md
+              - 折腾不止/群晖 NAS（218+）/使用TinyPNG自动压缩图片（群晖Docker）.md
           - 技术流:
               - 折腾不止/技术流/使用Rclone同步网盘数据.md
               - 折腾不止/技术流/为什么你需要一个知识库.md #  CSDN
@@ -448,70 +541,5 @@ nav:
               - 折腾不止/一些小技巧/如何快速制作一个启动盘.md
               - 折腾不止/一些小技巧/使用VSCode进行远程开发.md
               - 折腾不止/一些小技巧/Node.js和npm的安装与卸载（MacOS）.md
-      #- 杂七杂八:
-      #    - 机器人队行政:
-      #        - 四校交流-策划案.md
-      #        - 四校交流-策划案-正式.md
-      #        - 团队知识库的搭建.md
-      #        - 团队影像资源管理.md
-      #        - 大扫除-经验模板.md
-      #        - 校门口车辆放行-流程.md
-      #        - 参观实验室-经验模板.md
-      #        - 动员大会-经验总结.md
-      #        - 换届大会-经验总结.md
-      #        - 破冰活动-经验总结.md
-      #        - 出展活动-经验总结.md
-      #    - PM:
-      #        - 产品经理的日常.md
-      #        - 中台的概念.md
-      #        - 画图基础.md
-      #        - 智能硬件产品经理的技术要求.md
-      #        - 如何撰写一份BRD.md
-      #        - 软件开发中的注意事项.md
-      #        - 专业与分工.md
-      #        - 关于复盘.md
-###
 
-#  archive：
-# - archive/Python学习笔记.md
-# - archive/STM32麦轮小车.md
-# - archive/RM校内赛-前期策划.md
-# - archive/报告书都要写些什么？.md
-# - archive/无人驾驶比赛.md
-# - archive/硬件模块.md
-# - archive/命令行基本操作-
-# - archive/科技X的访谈.md
-# - archive/极简面包-烘培.md
-# - archive/电路设计中常用的接口及关键点.md
-# - archive/Bash基础.md
-# - archive/从零搭建视觉开发环境（Docker-Linux）.md
-# - archive/Excel批量激活链接并转为图片.md
-# - archive/智能硬件产品开发流程.md
-# - archive/华广爬楼指北.md
-# - archive/小车游华广-比赛.md
-# - archive/麦昆小车-测评.md
-# - archive/STM32模块设计-LED.md
-# - archive/团队公开知识库的搭建.md
-# - archive/Docker方法部署code-server.md
-
-#  unlist：
-# - unlist/电源设计-LDO跳变抑制能力对比测试记录.md
-# - unlist/CentOS安装Docker.md
-# - unlist/乐谱-Imagine.md
-# - unlist/T-Clock桌上小钟（旧）.md
-# - unlist/构建知识管理系统.md
-# - unlist/回归博客.md
-# - unlist/团队知识库搭建记录-DokuWiki.md
-# - unlist/个人知识库极简搭建指南-VuePress.md
-# - unlist/博客转至GitBook.md
-# - unlist/浅谈Bitcron博客平台.md
-# - unlist/基于docsify搭建个人Wiki.md
-# - unlist/PCB名片的设计.md
-# - unlist/如何用LaTeX写论文.md
-
-#  preview
-# - 我是如何做数据容灾的.md
-# - 如何用Markdown写学术论文.md
-# - AD基本操作-PCB绘制.md
-# - AD基本操作-库文件绘制.md
 
