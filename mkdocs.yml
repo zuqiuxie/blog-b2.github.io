@@ -448,28 +448,28 @@ nav:
               - 生活琐记/blog/2021-04-07-Hello-blog.md
       - 折腾不止:
           - 自托管 Self-Host:
-              - 折腾不止/托管 Self-Host/搭建属于自己的HomeLab.md
-              - 折腾不止/托管 Self-Host/Homelab-轻量服务器管理面板CasaOS.md
-              - 折腾不止/托管 Self-Host/Homelab-反代证书管理面板NginxProxyManager.md
-              - 折腾不止/托管 Self-Host/Homelab-内网穿透工具frp.md
-              - 折腾不止/托管 Self-Host/Homelab-免费的内网穿透替代方案Cloudflared.md
-              - 折腾不止/托管 Self-Host/Homelab-在线代码编辑器code-server.md
-              - 折腾不止/托管 Self-Host/Homelab-网站状态监控工具UptimeKuma.md
-              - 折腾不止/托管 Self-Host/Homelab-高质量图片压缩工具TinyPNG-docker.md
-              - 折腾不止/托管 Self-Host/Homelab-极简个人书签导航站Flare.md
-              - 折腾不止/托管 Self-Host/Homelab-容器应用管理平台Portainer.md
-              - 折腾不止/托管 Self-Host/Homelab-跨设备同步工具Syncthing.md
-              - 折腾不止/托管 Self-Host/Homelab-碎片笔记工具memos.md
-              - 折腾不止/托管 Self-Host/Homelab-功能强大的wiki系统Wikijs.md
-              - 折腾不止/托管 Self-Host/Homelab-自托管密码管理器Vaultwarden.md
-              - 折腾不止/托管 Self-Host/Homelab-支持公有云的图床系统Cloudreve.md
-              - 折腾不止/托管 Self-Host/Homelab-自托管RSS聚合器FreshRSS.md
-              - 折腾不止/托管 Self-Host/Homelab-支持多种协议的堡垒机NextTerminal.md
-              - 折腾不止/托管 Self-Host/Homelab-播客订阅管理器Podgrab.md
-              - 折腾不止/托管 Self-Host/Homelab-多功能PDF工具箱Stirling-PDF.md
-              - 折腾不止/托管 Self-Host/Homelab-网站favicon抓取工具iconserver.md
-              - 折腾不止/托管 Self-Host/Homelab-极简的待办系统todo.md
-              - 折腾不止/托管 Self-Host/Homelab-自动更新Docker容器的工具Watchtower.md
+              - 折腾不止/自托管 Self-Host/搭建属于自己的HomeLab.md
+              - 折腾不止/自托管 Self-Host/Homelab-轻量服务器管理面板CasaOS.md
+              - 折腾不止/自托管 Self-Host/Homelab-反代证书管理面板NginxProxyManager.md
+              - 折腾不止/自托管 Self-Host/Homelab-内网穿透工具frp.md
+              - 折腾不止/自托管 Self-Host/Homelab-免费的内网穿透替代方案Cloudflared.md
+              - 折腾不止/自托管 Self-Host/Homelab-在线代码编辑器code-server.md
+              - 折腾不止/自托管 Self-Host/Homelab-网站状态监控工具UptimeKuma.md
+              - 折腾不止/自托管 Self-Host/Homelab-高质量图片压缩工具TinyPNG-docker.md
+              - 折腾不止/自托管 Self-Host/Homelab-极简个人书签导航站Flare.md
+              - 折腾不止/自托管 Self-Host/Homelab-容器应用管理平台Portainer.md
+              - 折腾不止/自托管 Self-Host/Homelab-跨设备同步工具Syncthing.md
+              - 折腾不止/自托管 Self-Host/Homelab-碎片笔记工具memos.md
+              - 折腾不止/自托管 Self-Host/Homelab-功能强大的wiki系统Wikijs.md
+              - 折腾不止/自托管 Self-Host/Homelab-自托管密码管理器Vaultwarden.md
+              - 折腾不止/自托管 Self-Host/Homelab-支持公有云的图床系统Cloudreve.md
+              - 折腾不止/自托管 Self-Host/Homelab-自托管RSS聚合器FreshRSS.md
+              - 折腾不止/自托管 Self-Host/Homelab-支持多种协议的堡垒机NextTerminal.md
+              - 折腾不止/自托管 Self-Host/Homelab-播客订阅管理器Podgrab.md
+              - 折腾不止/自托管 Self-Host/Homelab-多功能PDF工具箱Stirling-PDF.md
+              - 折腾不止/自托管 Self-Host/Homelab-网站favicon抓取工具iconserver.md
+              - 折腾不止/自托管 Self-Host/Homelab-极简的待办系统todo.md
+              - 折腾不止/自托管 Self-Host/Homelab-自动更新Docker容器的工具Watchtower.md
           - 群晖 NAS（218+）:
               - 折腾不止/群晖 NAS（218+）/使用frp访问群晖NAS.md #  CSDN
               - 折腾不止/群晖 NAS（218+）/使用RSSHub搭建RSS生成器（群晖Docker）.md #  CSDN
