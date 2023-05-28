@@ -45,7 +45,7 @@ theme:
     #- search.highlight
   icon:
     repo: material/github
-    #edit: material/pencil
+    edit: material/pencil
 
 plugins:
   - search
