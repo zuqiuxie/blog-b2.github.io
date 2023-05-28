@@ -45,7 +45,7 @@ theme:
     #- search.highlight
   icon:
     repo: material/github
-    edit: material/pencil
+    #edit: material/pencil
 
 plugins:
   - search
@@ -85,7 +85,7 @@ extra:
       link: https://github.com/linyuxuanlin/File-host
       icon: fontawesome/regular/file-lines
 
-copyright: Copyright &copy; 2015 - 2023 by Power | <a href="https://beian.miit.gov.cn"> 粤 ICP 备 20014898 号 </a>
+copyright: Copyright &copy; 2009 - 2023 by Power | <a href="https://beian.miit.gov.cn"> 陕 ICP 备 15010801号-3(个人备案) </a>
 
 markdown_extensions:
   - pymdownx.arithmatex:
