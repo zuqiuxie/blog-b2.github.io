@@ -4,7 +4,6 @@ hide:
   - navigation
   - toc
 ---
-
 # Power's Wiki
 
 <!--  一个不会讲故事的攻城狮，算不上一个很酷的产品汪~-->
@@ -30,9 +29,9 @@ Hi there~ 欢迎来到我的知识库。
 [![badge](https://img.shields.io/badge/只言片语-Memos-orange?&style=flat-square)](https://memos.wiki-power.com/)
 [![badge](https://img.shields.io/badge/硬件作品集-Works-a5b0ed?&style=flat-square)](https://works.wiki-power.com/)
 
-为了避免遗忘、便于分享，我在这里收录知识。  
+为了避免遗忘、便于分享，我在这里收录知识。
 请随意浏览～
 
-[硬件 & 半导体](/信号完整性-基础概念){ .md-button }
-[嵌入式 & 软件开发](/HAL库开发笔记-串口通信){ .md-button }
-[效率 & 生活](/搭建属于自己的HomeLab){ .md-button }
+[硬件 &amp; 半导体](/信号完整性-基础概念){ .md-button }
+[嵌入式 &amp; 软件开发](/HAL库开发笔记-串口通信){ .md-button }
+[效率 &amp; 生活](/搭建属于自己的HomeLab){ .md-button }

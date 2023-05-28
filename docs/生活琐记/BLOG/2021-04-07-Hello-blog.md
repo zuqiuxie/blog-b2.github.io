@@ -1,8 +1,7 @@
 ---
+id: Hello blog
 title: Hello blog
-tags: []
 ---
-
 终于，我还是给知识库加上了博客的功能。
 
 在听了 [**捕蛇者说**](https://podcasts.apple.com/cn/podcast/%E6%8D%95%E8%9B%87%E8%80%85%E8%AF%B4/id1471299491) 的播客节目「个人知识管理体系系列」后，我思考了一番，发现之前倾向的单一知识库的做法，存在一些弊端：
