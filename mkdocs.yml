@@ -146,16 +146,16 @@ nav:
               - 硬件设计/基础知识/防反接电路的设计.md
               - 硬件设计/基础知识/个人PCB设计规范.md
           - 嵌入式硬件:
-              - 硬件 & 半导体/硬件设计/嵌入式硬件/RobotCtrl-STM32通用开发套件.md
-              - RobotCtrl_Core-核心板.md
-              - RobotCtrl_Func-外设拓展板.md
-              - RobotCtrl_Power-电源供电板.md
-              - Flip-基于全志F1C200s的Linux开发板.md
-              - OSD335x最小系统的设计.md
-              - 如何设计一款单片机的最小系统.md #  CSDN
-              - STM32F4硬件开发.md
-              - SwiftCtrl-蓝牙手柄.md
-              - 自制CMSIS-DAP.md
+              - 硬件设计/嵌入式硬件/RobotCtrl-STM32通用开发套件.md
+              - 硬件设计/嵌入式硬件/RobotCtrl_Core-核心板.md
+              - 硬件设计/嵌入式硬件/RobotCtrl_Func-外设拓展板.md
+              - 硬件设计/嵌入式硬件/RobotCtrl_Power-电源供电板.md
+              - 硬件设计/嵌入式硬件/Flip-基于全志F1C200s的Linux开发板.md
+              - 硬件设计/嵌入式硬件/OSD335x最小系统的设计.md
+              - 硬件设计/嵌入式硬件/如何设计一款单片机的最小系统.md #  CSDN
+              - 硬件设计/嵌入式硬件/STM32F4硬件开发.md
+              - 硬件设计/嵌入式硬件/SwiftCtrl-蓝牙手柄.md
+              - 硬件设计/嵌入式硬件/自制CMSIS-DAP.md
               # - X86平台的硬件测试.md
           - 电机驱动:
               - 直流有刷电机驱动的设计.md
