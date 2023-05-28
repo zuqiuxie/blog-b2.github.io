@@ -471,36 +471,35 @@ nav:
               - 折腾不止/自托管 Self-Host/Homelab-极简的待办系统todo.md
               - 折腾不止/自托管 Self-Host/Homelab-自动更新Docker容器的工具Watchtower.md
           - 群晖 NAS（218+）:
-              - 折腾不止/群晖 NAS（218+）/使用frp访问群晖NAS.md #  CSDN
-              - 折腾不止/群晖 NAS（218+）/使用RSSHub搭建RSS生成器（群晖Docker）.md #  CSDN
-              - 折腾不止/群晖 NAS（218+）/使用Bitwarden搭建密码管理器（群晖Docker）.md #  CSDN
-              - 折腾不止/群晖 NAS（218+）/使用acme.sh自动申请域名证书（群晖Docker）.md #  CSDN
-              - 折腾不止/群晖 NAS（218+）/使用Calibre搭建在线书库（群晖Docker）.md #  CSDN
+              - 折腾不止/群晖 NAS（218+）/使用frp访问群晖NAS.md
+              - 折腾不止/群晖 NAS（218+）/使用RSSHub搭建RSS生成器（群晖Docker）.md
+              - 折腾不止/群晖 NAS（218+）/使用Bitwarden搭建密码管理器（群晖Docker）.md
+              - 折腾不止/群晖 NAS（218+）/使用acme.sh自动申请域名证书（群晖Docker）.md
+              - 折腾不止/群晖 NAS（218+）/使用Calibre搭建在线书库（群晖Docker）.md
               - 折腾不止/群晖 NAS（218+）/使用Watchtower自动更新容器（群晖Docker）.md
               - 折腾不止/群晖 NAS（218+）/使用TinyPNG自动压缩图片（群晖Docker）.md
           - 技术流:
               - 折腾不止/技术流/使用Rclone同步网盘数据.md
-              - 折腾不止/技术流/为什么你需要一个知识库.md #  CSDN
-              - 折腾不止/技术流/个人知识库的搭建-基于Docusaurus.md #  CSDN
-              - 折腾不止/技术流/Docusaurus极简部署指南.md #  CSDN todo
-              - 折腾不止/技术流/使用Markdown高效写作.md #  CSDN
-              - 折腾不止/技术流/个人文案排版规范.md #  CSDN todo
+              - 折腾不止/技术流/为什么你需要一个知识库.md
+              - 折腾不止/技术流/个人知识库的搭建-基于Docusaurus.md
+              - 折腾不止/技术流/Docusaurus极简部署指南.md
+              - 折腾不止/技术流/使用Markdown高效写作.md
+              - 折腾不止/技术流/个人文案排版规范.md
               - 折腾不止/技术流/如何保存易逝的文字.md
-              - 折腾不止/技术流/如何用Markdown写一份简历.md #  CSDN
-              - 折腾不止/技术流/如何在iPad上运行VSCode.md #  CSDN
+              - 折腾不止/技术流/如何用Markdown写一份简历.md
+              - 折腾不止/技术流/如何在iPad上运行VSCode.md
               - 折腾不止/技术流/MkDocs测试实验室.md
-              - 折腾不止/技术流/Windows初始化与软件推荐（旧）.md #  CSDN todo
+              - 折腾不止/技术流/Windows初始化与软件推荐（旧）.md
               - 折腾不止/技术流/Personal_Onboarding_Workflow_(Windows).md
-              - 折腾不止/技术流/Hugo极简搭建指南.md #  CSDN todo
-              - 折腾不止/技术流/用树莓派架设云打印服务器.md #  CSDN todo
-              - 折腾不止/技术流/用Graphviz绘制关系图.md #  CSDN todo
-              - 折腾不止/技术流/RSS-高效率的阅读方式.md
-              - 折腾不止/技术流/如何实现外网RDP远控（frp）.md #  CSDN
-              - 折腾不止/技术流/技术文档写作规范.md #  CSDN todo
+              - 折腾不止/技术流/Hugo极简搭建指南.md
+              - 折腾不止/技术流/用树莓派架设云打印服务器.md
+              - 折腾不止/技术流/用Graphviz绘制关系图.md
+              - 折腾不止/技术流/如何实现外网RDP远控（frp）.md
+              - 折腾不止/技术流/技术文档写作规范.md
               - 折腾不止/技术流/如何在Markdown中使用LaTeX.md
               - 折腾不止/技术流/把回忆放心交给GooglePhotos.md
-              - 折腾不止/技术流/VSCode生产力指南-环境配置.md #  CSDN todo
-              - 折腾不止/技术流/VSCode生产力指南-JupyterNotebook.md #  CSDN todo
+              - 折腾不止/技术流/VSCode生产力指南-环境配置.md
+              - 折腾不止/技术流/VSCode生产力指南-JupyterNotebook.md
               - 折腾不止/技术流/在浏览器上运行VSCode（旧）.md
               - 折腾不止/技术流/如何配一台电脑.md
               - 折腾不止/技术流/团队影像资源管理.md
