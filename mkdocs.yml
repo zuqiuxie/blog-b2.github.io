@@ -324,19 +324,19 @@ nav:
   - 生活 & 折腾:
       - 生活琐记:
           - LIFEHACK:
-              - 生活琐记/LIFEHAC/如何调制一杯鸡尾酒.md
-              - 生活琐记/LIFEHAC/太阳高度角计算.md
-              - 生活琐记/LIFEHAC/如何准备一个逃生背包.md
-              - 生活琐记/LIFEHAC/AI影响下未来的职业选择.md
-              # - 生活琐记/LIFEHAC/如何合理配置个人资产.md
-              - 生活琐记/LIFEHAC/读《黑客与画家》.md
-              # - 生活琐记/LIFEHAC/英语六级-备考.md
-              # - 生活琐记/LIFEHAC/音乐相关.md
-              - 生活琐记/LIFEHAC/THEHack2019黑客马拉松.md
-              - 生活琐记/LIFEHAC/Hack.init()黑客马拉松.md
-              # - 生活琐记/LIFEHAC/电路焊接比赛记录.md
-              # - 生活琐记/LIFEHAC/为什么要「站在巨人的肩膀上」.md
-            # - 生活琐记/LIFEHAC/一些观点.md
+              - 生活琐记/LIFEHACK/如何调制一杯鸡尾酒.md
+              - 生活琐记/LIFEHACK/太阳高度角计算.md
+              - 生活琐记/LIFEHACK/如何准备一个逃生背包.md
+              - 生活琐记/LIFEHACK/AI影响下未来的职业选择.md
+              # - 生活琐记/LIFEHACK/如何合理配置个人资产.md
+              - 生活琐记/LIFEHACK/读《黑客与画家》.md
+              # - 生活琐记/LIFEHACK/英语六级-备考.md
+              # - 生活琐记/LIFEHACK/音乐相关.md
+              - 生活琐记/LIFEHACK/THEHack2019黑客马拉松.md
+              - 生活琐记/LIFEHACK/Hack.init()黑客马拉松.md
+              # - 生活琐记/LIFEHACK/电路焊接比赛记录.md
+              # - 生活琐记/LIFEHACK/为什么要「站在巨人的肩膀上」.md
+            # - 生活琐记/LIFEHACK/一些观点.md
           - BLOG:
               - 生活琐记/blog/2022-12-31-探索之路-2022小记.md
               - 生活琐记/blog/2022-09-23-星夜漫游.md
@@ -356,98 +356,98 @@ nav:
               - 生活琐记/blog/2021-04-07-Hello-blog.md
       - 折腾不止:
           - 自托管 Self-Host:
-              - 腾不止/托管 Self-Host/搭建属于自己的HomeLab.md
-              - 腾不止/托管 Self-Host/Homelab-轻量服务器管理面板CasaOS.md
-              - 腾不止/托管 Self-Host/Homelab-反代证书管理面板NginxProxyManager.md
-              - 腾不止/托管 Self-Host/Homelab-内网穿透工具frp.md
-              - 腾不止/托管 Self-Host/Homelab-免费的内网穿透替代方案Cloudflared.md
-              - 腾不止/托管 Self-Host/Homelab-在线代码编辑器code-server.md
-              - 腾不止/托管 Self-Host/Homelab-网站状态监控工具UptimeKuma.md
-              - 腾不止/托管 Self-Host/Homelab-高质量图片压缩工具TinyPNG-docker.md
-              - 腾不止/托管 Self-Host/Homelab-极简个人书签导航站Flare.md
-              - 腾不止/托管 Self-Host/Homelab-容器应用管理平台Portainer.md
-              - 腾不止/托管 Self-Host/Homelab-跨设备同步工具Syncthing.md
-              - 腾不止/托管 Self-Host/Homelab-碎片笔记工具memos.md
-              - 腾不止/托管 Self-Host/Homelab-功能强大的wiki系统Wikijs.md
-              - 腾不止/托管 Self-Host/Homelab-自托管密码管理器Vaultwarden.md
-              - 腾不止/托管 Self-Host/Homelab-支持公有云的图床系统Cloudreve.md
-              - 腾不止/托管 Self-Host/Homelab-自托管RSS聚合器FreshRSS.md
-              - 腾不止/托管 Self-Host/Homelab-支持多种协议的堡垒机NextTerminal.md
-              - 腾不止/托管 Self-Host/Homelab-播客订阅管理器Podgrab.md
-              - 腾不止/托管 Self-Host/Homelab-多功能PDF工具箱Stirling-PDF.md
-              - 腾不止/托管 Self-Host/Homelab-网站favicon抓取工具iconserver.md
-              - 腾不止/托管 Self-Host/Homelab-极简的待办系统todo.md
-              - 腾不止/托管 Self-Host/Homelab-自动更新Docker容器的工具Watchtower.md
+              - 折腾不止/托管 Self-Host/搭建属于自己的HomeLab.md
+              - 折腾不止/托管 Self-Host/Homelab-轻量服务器管理面板CasaOS.md
+              - 折腾不止/托管 Self-Host/Homelab-反代证书管理面板NginxProxyManager.md
+              - 折腾不止/托管 Self-Host/Homelab-内网穿透工具frp.md
+              - 折腾不止/托管 Self-Host/Homelab-免费的内网穿透替代方案Cloudflared.md
+              - 折腾不止/托管 Self-Host/Homelab-在线代码编辑器code-server.md
+              - 折腾不止/托管 Self-Host/Homelab-网站状态监控工具UptimeKuma.md
+              - 折腾不止/托管 Self-Host/Homelab-高质量图片压缩工具TinyPNG-docker.md
+              - 折腾不止/托管 Self-Host/Homelab-极简个人书签导航站Flare.md
+              - 折腾不止/托管 Self-Host/Homelab-容器应用管理平台Portainer.md
+              - 折腾不止/托管 Self-Host/Homelab-跨设备同步工具Syncthing.md
+              - 折腾不止/托管 Self-Host/Homelab-碎片笔记工具memos.md
+              - 折腾不止/托管 Self-Host/Homelab-功能强大的wiki系统Wikijs.md
+              - 折腾不止/托管 Self-Host/Homelab-自托管密码管理器Vaultwarden.md
+              - 折腾不止/托管 Self-Host/Homelab-支持公有云的图床系统Cloudreve.md
+              - 折腾不止/托管 Self-Host/Homelab-自托管RSS聚合器FreshRSS.md
+              - 折腾不止/托管 Self-Host/Homelab-支持多种协议的堡垒机NextTerminal.md
+              - 折腾不止/托管 Self-Host/Homelab-播客订阅管理器Podgrab.md
+              - 折腾不止/托管 Self-Host/Homelab-多功能PDF工具箱Stirling-PDF.md
+              - 折腾不止/托管 Self-Host/Homelab-网站favicon抓取工具iconserver.md
+              - 折腾不止/托管 Self-Host/Homelab-极简的待办系统todo.md
+              - 折腾不止/托管 Self-Host/Homelab-自动更新Docker容器的工具Watchtower.md
           - 群晖 NAS（218+）:
-              - 腾不止/群晖 NAS（218+）/使用frp访问群晖NAS.md #  CSDN
-              - 腾不止/群晖 NAS（218+）/使用RSSHub搭建RSS生成器（群晖Docker）.md #  CSDN
-              - 腾不止/群晖 NAS（218+）/使用Bitwarden搭建密码管理器（群晖Docker）.md #  CSDN
-              - 腾不止/群晖 NAS（218+）/使用acme.sh自动申请域名证书（群晖Docker）.md #  CSDN
-              - 腾不止/群晖 NAS（218+）/使用Calibre搭建在线书库（群晖Docker）.md #  CSDN
-              - 腾不止/群晖 NAS（218+）/使用Watchtower自动更新容器（群晖Docker）.md
+              - 折腾不止/群晖 NAS（218+）/使用frp访问群晖NAS.md #  CSDN
+              - 折腾不止/群晖 NAS（218+）/使用RSSHub搭建RSS生成器（群晖Docker）.md #  CSDN
+              - 折腾不止/群晖 NAS（218+）/使用Bitwarden搭建密码管理器（群晖Docker）.md #  CSDN
+              - 折腾不止/群晖 NAS（218+）/使用acme.sh自动申请域名证书（群晖Docker）.md #  CSDN
+              - 折腾不止/群晖 NAS（218+）/使用Calibre搭建在线书库（群晖Docker）.md #  CSDN
+              - 折腾不止/群晖 NAS（218+）/使用Watchtower自动更新容器（群晖Docker）.md
           - 技术流:
-              - 腾不止/技术流/使用Rclone同步网盘数据.md
-              - 腾不止/技术流/为什么你需要一个知识库.md #  CSDN
-              - 腾不止/技术流/个人知识库的搭建-基于Docusaurus.md #  CSDN
-              - 腾不止/技术流/Docusaurus极简部署指南.md #  CSDN todo
-              - 腾不止/技术流/使用Markdown高效写作.md #  CSDN
-              - 腾不止/技术流/个人文案排版规范.md #  CSDN todo
-              - 腾不止/技术流/如何保存易逝的文字.md
-              - 腾不止/技术流/如何用Markdown写一份简历.md #  CSDN
-              - 腾不止/技术流/如何在iPad上运行VSCode.md #  CSDN
-              - 腾不止/技术流/MkDocs测试实验室.md
-              - 腾不止/技术流/Windows初始化与软件推荐（旧）.md #  CSDN todo
-              - 腾不止/技术流/Personal_Onboarding_Workflow_(Windows).md
-              - 腾不止/技术流/Hugo极简搭建指南.md #  CSDN todo
-              - 腾不止/技术流/用树莓派架设云打印服务器.md #  CSDN todo
-              - 腾不止/技术流/用Graphviz绘制关系图.md #  CSDN todo
-              - 腾不止/技术流/RSS-高效率的阅读方式.md
-              - 腾不止/技术流/如何实现外网RDP远控（frp）.md #  CSDN
-              - 腾不止/技术流/技术文档写作规范.md #  CSDN todo
-              - 腾不止/技术流/如何在Markdown中使用LaTeX.md
-              - 腾不止/技术流/把回忆放心交给GooglePhotos.md
-              - 腾不止/技术流/VSCode生产力指南-环境配置.md #  CSDN todo
-              - 腾不止/技术流/VSCode生产力指南-JupyterNotebook.md #  CSDN todo
-              - 腾不止/技术流/在浏览器上运行VSCode（旧）.md
-              - 腾不止/技术流/如何配一台电脑.md
-              - 腾不止/技术流/团队影像资源管理.md
-              - 腾不止/技术流/团队知识库的搭建.md
+              - 折腾不止/技术流/使用Rclone同步网盘数据.md
+              - 折腾不止/技术流/为什么你需要一个知识库.md #  CSDN
+              - 折腾不止/技术流/个人知识库的搭建-基于Docusaurus.md #  CSDN
+              - 折腾不止/技术流/Docusaurus极简部署指南.md #  CSDN todo
+              - 折腾不止/技术流/使用Markdown高效写作.md #  CSDN
+              - 折腾不止/技术流/个人文案排版规范.md #  CSDN todo
+              - 折腾不止/技术流/如何保存易逝的文字.md
+              - 折腾不止/技术流/如何用Markdown写一份简历.md #  CSDN
+              - 折腾不止/技术流/如何在iPad上运行VSCode.md #  CSDN
+              - 折腾不止/技术流/MkDocs测试实验室.md
+              - 折腾不止/技术流/Windows初始化与软件推荐（旧）.md #  CSDN todo
+              - 折腾不止/技术流/Personal_Onboarding_Workflow_(Windows).md
+              - 折腾不止/技术流/Hugo极简搭建指南.md #  CSDN todo
+              - 折腾不止/技术流/用树莓派架设云打印服务器.md #  CSDN todo
+              - 折腾不止/技术流/用Graphviz绘制关系图.md #  CSDN todo
+              - 折腾不止/技术流/RSS-高效率的阅读方式.md
+              - 折腾不止/技术流/如何实现外网RDP远控（frp）.md #  CSDN
+              - 折腾不止/技术流/技术文档写作规范.md #  CSDN todo
+              - 折腾不止/技术流/如何在Markdown中使用LaTeX.md
+              - 折腾不止/技术流/把回忆放心交给GooglePhotos.md
+              - 折腾不止/技术流/VSCode生产力指南-环境配置.md #  CSDN todo
+              - 折腾不止/技术流/VSCode生产力指南-JupyterNotebook.md #  CSDN todo
+              - 折腾不止/技术流/在浏览器上运行VSCode（旧）.md
+              - 折腾不止/技术流/如何配一台电脑.md
+              - 折腾不止/技术流/团队影像资源管理.md
+              - 折腾不止/技术流/团队知识库的搭建.md
           - 一些小技巧:
-              - 腾不止/一些小技巧/Windows常用命令.md
-              - 腾不止/一些小技巧/VSCode的便携模式.md
-              - 腾不止/一些小技巧/开启Chrome（Edge）多线程下载.md
-              - 腾不止/一些小技巧/移除Chrome（Edge）由组织管理.md
-              - 腾不止/一些小技巧/避免Chrome（Edge）强制转换HTTPS.md
-              - 腾不止/一些小技巧/用群晖自带反向代理实现HTTPS访问.md
-              - 腾不止/一些小技巧/解决Google相册导出时间信息丢失问题.md
-              - 腾不止/一些小技巧/使用gitignore忽略特殊文件.md
-              - 腾不止/一些小技巧/3D打印：ABS与PLA的区别.md
-              - 腾不止/一些小技巧/如何批量拉取Git仓库更新.md
-              - 腾不止/一些小技巧/如何用Markdown写公众号文章.md
-              - 腾不止/一些小技巧/如何快速删除node_modules.md
-              - 腾不止/一些小技巧/如何为公众号文章增加特效.md
-              - 腾不止/一些小技巧/如何在Linux下使用微信.md
-              - 腾不止/一些小技巧/如何打印出手写效果的文字.md
-              - 腾不止/一些小技巧/如何从乐曲中分离音轨.md
-              - 腾不止/一些小技巧/如何高效制作幻灯片.md
-              - 腾不止/一些小技巧/卡片式写作.md
-              - 腾不止/一些小技巧/如何撰写一份BRD.md
-              - 腾不止/一些小技巧/用reveal.js制作幻灯片.md
-              - 腾不止/一些小技巧/npm和Yarn换源加速国内访问.md
-              - 腾不止/一些小技巧/Vue.js小技巧.md
-              - 腾不止/一些小技巧/正则表达式实用语句.md
-              - 腾不止/一些小技巧/GitHub改Host.md
-              - 腾不止/一些小技巧/MSI主板开启虚拟化的方法.md
-              - 腾不止/一些小技巧/Git配置代理.md
-              - 腾不止/一些小技巧/删除GitHub仓库中某个文件夹.md
-              - 腾不止/一些小技巧/定制SublimeText3.md
-              - 腾不止/一些小技巧/用Vercel加速Pages服务.md
-              - 腾不止/一些小技巧/Doxygen注释规范.md
-              - 腾不止/一些小技巧/AltiumDesigner安装库文件.md
-              - 腾不止/一些小技巧/CentOS配置OhMyZsh.md
-              - 腾不止/一些小技巧/如何快速制作一个启动盘.md
-              - 腾不止/一些小技巧/使用VSCode进行远程开发.md
-              - 腾不止/一些小技巧/Node.js和npm的安装与卸载（MacOS）.md
+              - 折腾不止/一些小技巧/Windows常用命令.md
+              - 折腾不止/一些小技巧/VSCode的便携模式.md
+              - 折腾不止/一些小技巧/开启Chrome（Edge）多线程下载.md
+              - 折腾不止/一些小技巧/移除Chrome（Edge）由组织管理.md
+              - 折腾不止/一些小技巧/避免Chrome（Edge）强制转换HTTPS.md
+              - 折腾不止/一些小技巧/用群晖自带反向代理实现HTTPS访问.md
+              - 折腾不止/一些小技巧/解决Google相册导出时间信息丢失问题.md
+              - 折腾不止/一些小技巧/使用gitignore忽略特殊文件.md
+              - 折腾不止/一些小技巧/3D打印：ABS与PLA的区别.md
+              - 折腾不止/一些小技巧/如何批量拉取Git仓库更新.md
+              - 折腾不止/一些小技巧/如何用Markdown写公众号文章.md
+              - 折腾不止/一些小技巧/如何快速删除node_modules.md
+              - 折腾不止/一些小技巧/如何为公众号文章增加特效.md
+              - 折腾不止/一些小技巧/如何在Linux下使用微信.md
+              - 折腾不止/一些小技巧/如何打印出手写效果的文字.md
+              - 折腾不止/一些小技巧/如何从乐曲中分离音轨.md
+              - 折腾不止/一些小技巧/如何高效制作幻灯片.md
+              - 折腾不止/一些小技巧/卡片式写作.md
+              - 折腾不止/一些小技巧/如何撰写一份BRD.md
+              - 折腾不止/一些小技巧/用reveal.js制作幻灯片.md
+              - 折腾不止/一些小技巧/npm和Yarn换源加速国内访问.md
+              - 折腾不止/一些小技巧/Vue.js小技巧.md
+              - 折腾不止/一些小技巧/正则表达式实用语句.md
+              - 折腾不止/一些小技巧/GitHub改Host.md
+              - 折腾不止/一些小技巧/MSI主板开启虚拟化的方法.md
+              - 折腾不止/一些小技巧/Git配置代理.md
+              - 折腾不止/一些小技巧/删除GitHub仓库中某个文件夹.md
+              - 折腾不止/一些小技巧/定制SublimeText3.md
+              - 折腾不止/一些小技巧/用Vercel加速Pages服务.md
+              - 折腾不止/一些小技巧/Doxygen注释规范.md
+              - 折腾不止/一些小技巧/AltiumDesigner安装库文件.md
+              - 折腾不止/一些小技巧/CentOS配置OhMyZsh.md
+              - 折腾不止/一些小技巧/如何快速制作一个启动盘.md
+              - 折腾不止/一些小技巧/使用VSCode进行远程开发.md
+              - 折腾不止/一些小技巧/Node.js和npm的安装与卸载（MacOS）.md
       #- 杂七杂八:
       #    - 机器人队行政:
       #        - 四校交流-策划案.md
