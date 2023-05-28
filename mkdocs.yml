@@ -201,7 +201,6 @@ nav:
               - 硬件设计/信号与电源完整性/ESD基础知识.md
               - 硬件设计/信号与电源完整性/EMC设计指南.md
               - 硬件设计/信号与电源完整性/信号地与机壳地间的EMC设计.md
-              - 硬件设计/信号与电源完整性/Signal and Power Integrity:
               - 硬件设计/信号与电源完整性/Basics_of_Signal_and_Power_Integrity.md
           - 射频设计:
               - 硬件设计/射频设计/射频-基础知识.md
